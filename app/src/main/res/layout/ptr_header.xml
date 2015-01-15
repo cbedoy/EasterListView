@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" style="@style/ptr_headerContainer">
+    <RelativeLayout android:id="@+id/ptr_id_header" style="@style/ptr_header">
+        <cbedoy.easterlist.widgets.ScaleImageView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:src="@drawable/ws11"/>
+    </RelativeLayout>
+</LinearLayout>
